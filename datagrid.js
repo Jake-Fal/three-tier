@@ -1,6 +1,8 @@
 // URL to your production code when you publish yoru google app script as a web app
 // You will get this URL when you publish your google apps script as a web app
-let prefix="https://script.google.com/macros/s/AKfycby_dSlE-6BaUga24t3zeHtJQ2ejdafYyfiODQ0ZBIQWdkvmFJpitrP8swrOKhocd7-E/exec" // looks like: https://script.google.com/macros/s/AKfycbz90JgtbAjrjz8c8WQGjgy8kM2GtdCAulom8XWOQyGoeX8DXM5XsmUMAcSYSSyZwwNSLq/exec
+let prefix="https://script.google.com/macros/s/AKfycbzz7kJImFToWy-rYTr_UGoHeCtCejYWOnz8owB0673rsRbYE9Nz10WbWMvHF_Pk_Ogu/exec" 
+// my og: https://script.google.com/macros/s/AKfycby_dSlE-6BaUga24t3zeHtJQ2ejdafYyfiODQ0ZBIQWdkvmFJpitrP8swrOKhocd7-E/exec
+// Gove looks like: https://script.google.com/macros/s/AKfycbz90JgtbAjrjz8c8WQGjgy8kM2GtdCAulom8XWOQyGoeX8DXM5XsmUMAcSYSSyZwwNSLq/exec
 const dealy_seconds = 4 // how long data validation messages are visible
 
 //example call: file:///C:/Users/Gove/three-tier/datagrid.html?employee
